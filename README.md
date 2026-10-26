@@ -1,6 +1,5 @@
 # Customer-Churn-Analysis-And-Prediction
 Customer churn analysis using SQL, Excel, Python, Machine Learning, and Power BI to analyze churn patterns and visualize churn reasons.
-# Customer Churn Analysis | SQL, Excel, Python, Machine Learning & Power BI
 
 ## 1. Project Overview
 
