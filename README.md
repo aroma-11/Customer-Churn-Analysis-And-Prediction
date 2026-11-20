@@ -229,4 +229,5 @@ The Churn Reasons dashboard provides a focused view of recorded customer departu
 
 ## Author
 Khushbu
+
 Aspiring Data Analyst with an interest in SQL, Python, Machine Learning, Power BI, and business intelligence. Focused on developing practical analytical skills and building data-driven projects to solve business problems.
