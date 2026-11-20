@@ -228,5 +228,5 @@ By using SQL, Excel, Python, and Power BI, the project demonstrates how customer
 The Churn Reasons dashboard provides a focused view of recorded customer departure reasons, helping users identify frequently reported categories and interpret churn-related patterns. Overall, the project demonstrates the practical application of data analytics tools in transforming customer data into meaningful business insights.
 
 ## Author
-
+Khushbu
 Aspiring Data Analyst with an interest in SQL, Python, Machine Learning, Power BI, and business intelligence. Focused on developing practical analytical skills and building data-driven projects to solve business problems.
